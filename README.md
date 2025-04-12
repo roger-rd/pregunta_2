@@ -37,7 +37,10 @@ Este ejercicio corresponde a la **pregunta número 2** del trabajo evaluado. Aqu
 
 Puedes abrir el proyecto localmente con cualquier navegador moderno o acceder directamente a través de Netlify:
 
+
 🔗 [Ver App](https://taller-aplicaciones-pregunta-2.netlify.app/) 
+=======
+
 
 ---
 
